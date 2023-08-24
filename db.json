@@ -7,8 +7,8 @@
         "address": "г.Минск, ул.Челюскинцев, 30",
         "schedule": "Время работы: Пн-Пт: с 09:00 до 18:00 (обед 14:00-15:00) вых: Суббота, Воскресенье",
         "phone": "",
-        "latitude": "53.871875",
-        "longitude": "27.647768",
+        "latitude": 53.871875,
+        "longitude": 27.647768,
         "info": "",
         "wasteTypes": [waste[0], waste[1], waste[2], waste[3], waste[6]],
         "display": "false"
