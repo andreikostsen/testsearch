@@ -12,6 +12,19 @@
       "info": "",
       "wasteTypes": ["waste",[0], "waste",[1], "waste",[2], "waste",[3], "waste",[6]],
       "display": false
+    },
+    {
+        "id": 2,
+        "title": "Пункт №33 ОАО \"Белвторресурсы\"",
+        "website": "https://belvtorresurs.by/",
+        "address": "г.Минск, ул.Инженерная, 5",
+        "schedule": "Время работы: Пн-Пт: с 09:00 до 17:00 (обед 14:00-15:00) Сб: с 09:00 до 14:00; вых: Воскресенье",
+        "phone": "",
+        "latitude": 53.83348436563007,
+        "longitude": 27.68773289599531,
+        "info": "",
+        "wasteTypes": ["waste",[0], "waste",[1], "waste",[2], "waste",[3], "waste",[6]],
+        "display": false
     }
   ],
   "profile": {
