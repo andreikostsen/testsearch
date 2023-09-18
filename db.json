@@ -75,7 +75,7 @@
         "latitude": 53.88518435293745,
         "longitude": 27.663267926685606,
         "info": "",
-        "wasteTypes": [waste[0], waste[1], waste[2], waste[3], waste[6]],
+        "wasteTypes": ["пластик", "бумага", "стекло", "крупногабаритные отходы", "металл"],
         "display": false
     },
   ],
